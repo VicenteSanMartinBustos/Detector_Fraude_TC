@@ -52,3 +52,7 @@ Técnicas clave como `RobustScaler` y `SMOTE` fueron esenciales para el avance. 
 
 ---
 * **Herramientas:** Python, Pandas, Scikit-Learn, XGBoost, SHAP, Matplotlib.
+---
+* **Archivo csv:** Para ejecutar todo en google colab, necesitaras el archivo creditcard.csv, lo puedes descargar aquí:
+* https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+* Simplemente ponlo en la raiz de archivos (folders) y espera a que se suba complemente, despues, corre todas las casillas.
